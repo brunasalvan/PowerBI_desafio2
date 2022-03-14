@@ -1,4 +1,4 @@
-# PowerBI_desafio2
+# Power BI Desafio 2
 
 Dashboard criado a partir dos conjuntos de dados: Produtos, Vendas e Custos.
 
